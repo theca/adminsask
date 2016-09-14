@@ -1,0 +1,12 @@
+{
+    "name": "sask/phpword",
+    "require": {
+        "phpoffice/phpword": "^0.13.0"
+    },
+    "authors": [
+        {
+            "name": "Theca",
+            "email": "hasan.karamemis@gmail.com"
+        }
+    ]
+}
