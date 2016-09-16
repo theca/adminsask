@@ -6,5 +6,4 @@ if($_GET['edit_id'])
     $smarty->assign('row', $row);
     $smarty->display(_TPL_ . 'pages/editc.tpl');
 }
-
 ?>
