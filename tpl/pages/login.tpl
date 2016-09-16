@@ -3,6 +3,7 @@
 {if $smarty.session.utilisateur==true}
     
 {else}
+    <link rel="stylesheet" href="web/css/loginstyle.css">
 <div class="pen-title">
   <h1>SASK LOGIN</h1>
 </div>

@@ -14,16 +14,11 @@
 <link href="web/css/bootstrap.min.css" rel="stylesheet">
 <link href="web/css/datepicker3.css" rel="stylesheet">
 <link href="web/css/styles.css" rel="stylesheet">
-
-
 <link rel="shortcut icon" type="img/x-icon" href="img/ilogo.ico" />
-<link rel="stylesheet" href="web/css/loginreset.css">
 <link rel='stylesheet prefetch' href='http://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700,900|RobotoDraft:400,100,300,500,700,900'>
 <link rel='stylesheet prefetch' href='http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css'>
-<link rel="stylesheet" href="web/css/loginstyle.css">
 
-
-
+<link href="//cdn.datatables.net/1.10.12/css/jquery.dataTables.min.css" rel="stylesheet">
 </head>
 
 <body>

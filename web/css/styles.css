@@ -941,6 +941,20 @@ h1.page-header {
 .hiddenform, .dnone {
     display: none;
 }
+#clientTable .glyph, #serviceTable .glyph{
+    height: 16px;
+    width: 16px;
+    margin: 0 10px 0 0;
+    stroke-width: 3px;
+}
+#clientTable thead th {
+        background: #f7f7f8;
+    border-color: #ddd;
+    color: #5f6468;
+    font-weight: 300;
+    font-size: 16px;
+}
+}
 
 
 
