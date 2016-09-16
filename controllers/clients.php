@@ -15,11 +15,6 @@
          function unstore($file){return json_decode(file_get_contents($file),true);}
          
          store('web/table/clients.json',$allClients);*/
- }
-
-
-    
-    
-          
+ } 
 ?>
 
