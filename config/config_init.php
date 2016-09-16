@@ -18,7 +18,7 @@ foreach ($files as $filename)
 
 // Connexion Database
 try {
-$bdd = new PDO("mysql:host=localhost;dbname=sask_", "hasan", "kyothesite");
+$bdd = new PDO("mysql:host=localhost;dbname=****", "login", "pwd");
 $bdd->query("SET NAMES UTF8");
 } catch (Exception $e) {
     echo "Problème de connexion à la base de donnée PixyJob...";
